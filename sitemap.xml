@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://danibotond.ro/blog/2014/03/13/first-post/</loc>
+        <lastmod>2014-03-13T20:32:48+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://danibotond.ro/blog/archives/</loc>
+        <lastmod>2014-03-13T20:32:48+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://danibotond.ro/</loc>
+        <lastmod>2014-03-13T20:32:48+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://danibotond.ro/robots.txt</loc>
+        <lastmod>2014-03-13T20:27:37+02:00</lastmod>
+    </url>
+</urlset>
