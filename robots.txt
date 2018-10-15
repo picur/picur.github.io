@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://picur.github.io/sitemap.xml 
