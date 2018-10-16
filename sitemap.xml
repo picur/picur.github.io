@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://danibotond.ro/</loc>
+    <loc>https://danibotond.ro/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://danibotond.ro/categories/</loc>
+    <loc>https://danibotond.ro/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://danibotond.ro/tags/</loc>
+    <loc>https://danibotond.ro/</loc>
     <priority>0</priority>
   </url>
   
